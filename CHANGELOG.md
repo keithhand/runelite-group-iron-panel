@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 1.2.0
+
+Features
+
+* Adds support for the sailing skill.
+
 ## 1.1.0
 
 Bug Fixes
@@ -14,3 +20,4 @@ Features
 ## 1.0.0
 
 The initial release of the plugin.
+
